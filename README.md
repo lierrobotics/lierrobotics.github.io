@@ -1,2 +1,2 @@
 # Lier Robotics Github
-Vår nettside
+Dette er vår aller første setning på denne siden. Bortsett fra overskriften da...
